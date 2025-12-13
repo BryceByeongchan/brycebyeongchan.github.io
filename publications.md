@@ -1,7 +1,7 @@
- ---
- layout: page
- title: Publications & Talks
- ---
+---
+layout: page
+title: Publications & Talks
+---
  
 ## Publications
 
