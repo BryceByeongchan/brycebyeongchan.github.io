@@ -1,1 +1,0 @@
-# brycebyeongchan.github.io

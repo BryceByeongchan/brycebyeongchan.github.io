@@ -1,3 +1,7 @@
 title: Byeongchan Lee
 description: Ph. D Student · Condensed Matter Physics
 theme: minima
+
+header_pages:
+- cv.md
+- research.md
