@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Many-body Perturbation Theory
+title: Study Notes
 ---
 
-- GW–BSE calculations
+## Many-body Perturbation Theory
 

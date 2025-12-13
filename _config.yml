@@ -5,3 +5,4 @@ theme: minima
 header_pages:
 - cv.md
 - research.md
+- publications.md
