@@ -6,7 +6,7 @@ title: About
 ## [Byeongchan Lee]({{ "/assets/CV_2025.pdf" | relative_url }})
 {: .mt-5 .display-5 .fw-bold text-primary }
 
-### *Under Construction*
+#### *Under Construction*
 Ph.D Student @
 [Computational Quantum Materials Physics Lab](https://yw-choi.github.io/), \
 Department of Physics, Sogang University.
