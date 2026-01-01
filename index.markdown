@@ -8,7 +8,7 @@ title: About
 
 ### *Under Construction*
 Ph.D Student @
-[Computational Quantum Materials Physics Lab](https://yw-choi.github.io/)
+[Computational Quantum Materials Physics Lab](https://yw-choi.github.io/), \
 Department of Physics, Sogang University.
 
 Ph.D. student in computational condensed matter physics.
