@@ -14,6 +14,6 @@ Department of Physics, Sogang University.
 Ph.D. student in computational condensed matter physics.
 
 ### Research Interests
-- Excitons and optical properties in 2D materials
-- Many-body perturbation theory (GW, BSE)
-- First-principles electronic structure calculations
+- Calculations of quantum excitations in low-dimensional materials
+- Ab initio calculation of electronic structure of many-body interactions in quantum materials
+- Development of electronic structure methods using high-performance computing
