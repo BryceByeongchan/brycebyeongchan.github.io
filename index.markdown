@@ -16,3 +16,9 @@ Department of Physics, Sogang University.
 - Calculations of quantum excitations in low-dimensional materials
 - Ab initio calculation of electronic structure of many-body interactions in quantum materials
 - Development of electronic structure methods using high-performance computing
+
+### Talks
+**First-principles Study of Excitons in 1D Single Chains** \
+ICAMD 2025, BEXCO, Busan, Korea, Dec 8-11, 2025 (Poster)
+
+
